@@ -1,0 +1,22 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="JupyterPackageInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="7">
+            <item index="0" class="java.lang.String" itemvalue="pydot" />
+            <item index="1" class="java.lang.String" itemvalue="appdirs" />
+            <item index="2" class="java.lang.String" itemvalue="PySide" />
+            <item index="3" class="java.lang.String" itemvalue="blinker" />
+            <item index="4" class="java.lang.String" itemvalue="nine" />
+            <item index="5" class="java.lang.String" itemvalue="docutils" />
+            <item index="6" class="java.lang.String" itemvalue="Qt.py" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

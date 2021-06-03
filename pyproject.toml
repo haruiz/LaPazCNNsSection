@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "lapazcnnssection"
+version = "0.1.0"
+description = ""
+authors = ["haruiz <henryruiz22@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.7.2,<3.10"
+opencv-python = "^4.4.0"
+matplotlib = "^3.3.3"
+jupyterlab = "^2.2.9"
+notebook = "^6.1.5"
+joblib = "^0.17.0"
+imutils = "^0.5.3"
+ipywidgets = "^7.6.3"
+sklearn = "^0.0"
+tensorflow = "2.3.1"
+nbconvert = "^6.0.7"
+pydot = "^1.4.2"
+pandas = "^1.1.5"
+scipy = "^1.6.3"
+tensorflow-datasets = "^4.3.0"
+scikit-image = "^0.18.1"
+
+[tool.poetry.dev-dependencies]
+black = "^21.5b2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
